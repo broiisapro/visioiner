@@ -1,0 +1,5 @@
+/Applications/Arc.app/Contents/MacOS/Arc --remote-debugging-port=9222
+
+/Users/moksh/Code/visioiner/chromedriver-mac-arm64/chromedriver ; exit;
+
+python eye_tracker.py
